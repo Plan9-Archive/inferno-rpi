@@ -2,9 +2,9 @@
 
 TARG=\
 	usb.dis\
-	usbmouse.dis\
-	usbmct.dis\
-	usbmass.dis
+	usbkb.dis\
+	mice.dis\
+	ethersmsc.dis\
 
 MODULES=
 
